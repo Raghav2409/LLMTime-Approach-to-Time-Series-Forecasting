@@ -1,6 +1,4 @@
-# Website-Traffic-Time-Series-Analysis
-
-# Website Traffic Analysis & Forecasting
+# Website Traffic Analysis & Time Series Forecasting
 
 ## Overview
 This project implements a dual-approach analysis of website traffic data, combining traditional statistical time series forecasting methods with LLMTime, an innovative LLM-powered analysis technique. The goal is to provide deeper insights into traffic patterns and more accurate predictions for website visitor behavior.
