@@ -28,6 +28,7 @@ The project innovatively incorporates LLMTime, a cutting-edge approach that leve
 - Ability to incorporate contextual factors affecting traffic
 - Pattern recognition across multiple time scales
 - Adaptive learning from historical trends
+![LLMTime Forecasting Results](https://drive.google.com/uc?export=view&id=1SXxyoYYdJ88BgbHiRUM3im6UzrWHEpOy)
 
 ## Technical Stack
 - Python 3.x
