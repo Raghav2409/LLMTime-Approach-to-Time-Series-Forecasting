@@ -72,12 +72,6 @@ jupyter lab
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
 
-## License
-[Specify License Type]
-
-## Contact
-[Your Contact Information]
-
 ## Acknowledgments
 - Facebook Prophet team for their forecasting tool
 - LLMTime developer (@ngruver) for their innovative approach to time series analysis
